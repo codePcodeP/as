@@ -1,0 +1,11 @@
+streamlit==1.36.0
+openai==1.35.13
+python-dotenv==1.0.1
+streamlit-audiorecorder==0.0.5
+aiortc==1.9.0
+pydub==0.25.1
+requests==2.31.0
+ffmpeg-python==0.2.0
+imageio==2.34.1
+imageio-ffmpeg==0.5.1
+streamlit-autorefresh
